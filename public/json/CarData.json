@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "NEW AVANZA",
+    "description": "Mobil keluarga modern yang tangguh dan irit bahan bakar, ideal untuk perjalanan wisata yang nyaman bersama keluarga kecil atau sahabat terdekat.",
+    "price": "Driver + BBM\nRp 650.000",
+    "priceLepasKunci": "Rp 400.000",
+    "imageUrl": "/car/NA.webp",
+    "link": "https://wa.me/6287866772313?text=Halo%20Admin%20LombokMandalikaWisata,%20Minta%20Info%20Sewa%20Mobil%20NEW%20AVANZA"
+  },
+  {
+    "id": 2,
+    "name": "AVANZA",
+    "description": "Mobil MPV serbaguna dan ekonomis, pilihan tepat untuk petualangan bersama keluarga atau teman dengan efisiensi bahan bakar.",
+    "price": "Driver + BBM\nRp 600.000",
+    "priceLepasKunci": "Rp 350.000",
+    "imageUrl": "/car/AV.webp",
+    "link": "https://wa.me/6287866772313?text=Halo%20Admin%20LombokMandalikaWisata,%20Minta%20Info%20Sewa%20Mobil%20AVANZA"
+  },
+  {
+    "id": 3,
+    "name": "INNOVA REBORN",
+    "description": "Kendaraan MPV premium dengan kabin yang lapang dan kenyamanan maksimal untuk perjalanan jauh.",
+    "price": "Driver + BBM\nRp 800.000",
+    "priceLepasKunci": "Rp 550.000",
+    "imageUrl": "/car/IR.webp",
+    "link": "https://wa.me/6287866772313?text=Halo%20Admin%20LombokMandalikaWisata,%20Minta%20Info%20Sewa%20Mobil%20INNOVA%20REBORN"
+  },
+  {
+    "id": 4,
+    "name": "HIACE",
+    "description": "Van premium dengan interior mewah dan kapasitas besar, cocok untuk perjalanan grup yang membutuhkan kenyamanan ekstra.",
+    "price": "Driver + BBM\nRp 900.000",
+    "TidakAdaLepasKunci": "Tidak ada Lepas Kunci",
+    "imageUrl": "/car/HC.webp",
+    "link": "https://wa.me/6287866772313?text=Halo%20Admin%20LombokMandalikaWisata,%20Minta%20Info%20Sewa%20Mobil%20HIACE"
+  },
+  {
+    "id": 5,
+    "name": "BRIO",
+    "description": "Mobil yang gesit dan lincah untuk menjelajahi sudut kota Lombok. Dengan desain yang sporty dan efisien, Brio adalah pilihan tepat untuk petualangan berdua.",
+    "price": "Driver + BBM\nRp 600.000",
+    "priceLepasKunci": "Rp 350.000",
+    "imageUrl": "/car/BR.webp",
+    "link": "https://wa.me/6287866772313?text=Halo%20Admin%20LombokMandalikaWisata,%20Minta%20Info%20Sewa%20Mobil%20BRIO"
+  },
+  {
+    "id": 6,
+    "name": "AYLA / AGYA",
+    "description": "Pilihan mobil yang ringkas dan hemat. Ayla/Agya cocok bagi Anda yang mencari kendaraan praktis untuk mobilitas di perkotaan dengan anggaran yang efisien.",
+    "price": "Driver + BBM\nRp 500.000",
+    "priceLepasKunci": "Rp 350.000",
+    "imageUrl": "/car/AYLA.webp",
+    "link": "https://wa.me/6287866772313?text=Halo%20Admin%20LombokMandalikaWisata,%20Minta%20Info%20Sewa%20Mobil%20AYLA%20/%20AGYA"
+  }
+]

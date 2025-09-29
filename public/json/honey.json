@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "PAKET HONEYMOON LOMBOK\n3 HARI 2 MALAM",
+    "description": "Melarikan diri ke dunia yang penuh romansa. Paket ini dirancang untuk pasangan agar dapat bersantai dan terhubung kembali, dengan pemandangan menakjubkan dan momen intim yang menciptakan kenangan tak terlupakan seumur hidup.",
+    "price": "4.750.000",
+    "imageUrl": "/malimbu.webp",
+    "link": "/honeymoon/honeymoon3h2m"
+  },
+  {
+    "id": 2,
+    "name": "PAKET HONEYMOON LOMBOK\n4 HARI 3 MALAM",
+    "description": "Tingkatkan romantisme Anda. Paket yang diperpanjang ini menawarkan lebih banyak waktu untuk merayakan cinta Anda di tempat yang benar-benar ajaib.",
+    "price": "5.500.000",
+    "imageUrl": "/sukarara.webp",
+    "link": "/honeymoon/honeymoon4h3m"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "/trawangan.jpg",
+    "name": "TRIP GILI TRAWANGAN",
+    "description": "Petualangan ke Gili Trawangan yang ikonik, dengan aktivitas snorkeling dan pemandangan laut yang memesona.",
+    "price": "500.000",
+    "link": "tours/trip-gili-trawangan"
+  },
+  {
+    "id": 2,
+    "imageUrl": "/mandalika.jpg",
+    "name": "TRIP SASAK MANDALIKA",
+    "description": "Jelajahi kebudayaan suku Sasak dan nikmati keindahan alam kawasan Mandalika yang menakjubkan.",
+    "price": "275.000",
+    "link": "/tours/trip-sasak"
+  },
+  {
+    "id": 3,
+    "imageUrl": "/pantai-pink.webp",
+    "name": "TRIP PANTAI PINK",
+    "description": "Kunjungi Pantai Pink yang unik dengan pasir berwarna merah muda dan jelajahi pulau-pulau kecil di sekitarnya.",
+    "price": " 385.000",
+    "link": "/tours/trip-pantai-pink"
+  },
+  {
+    "id": 4,
+    "imageUrl": "/gili-nanggu.jpg",
+    "furation": "1 hari",
+    "name": "TRIP GILI NANGGU",
+    "description": "Rasakan ketenangan di Gili Nanggu, sebuah surga tersembunyi dengan keindahan bawah laut yang luar biasa.",
+    "price": "355.000",
+    "link": "/tours/trip-gili-nanggu"
+  },
+  {
+    "id": 5,
+    "imageUrl": "/air-terjun.webp",
+    "name": "TRIP AIR TERJUN",
+    "description": "Temukan keindahan tersembunyi air terjun di kaki Gunung Rinjani, dengan petualangan di tengah hutan tropis.",
+    "price": "350.000",
+    "link": "/tours/trip-air-terjun"
+  },
+  {
+    "id": 8,
+    "imageUrl": "/sembalun.jpg",
+    "name": "TRIP SEMBALUN",
+    "description": "Nikmati keindahan perbukitan dan sawah terasering di kaki Gunung Rinjani, dengan suasana pegunungan yang sejuk.",
+    "price": "500.000",
+    "link": "/tours/trip-sembalun"
+  }
+]
