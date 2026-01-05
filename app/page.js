@@ -6,6 +6,8 @@ import Hero from "../section/home";
 import CarRental from "../section/car";
 import Honeymoon from "../section/honeymoon";
 import Testimonial from "../section/testimonial";
+import FAQSection from "../section/faq";
+import Footer from "../section/Footer";
 
 
 export default function page() {
@@ -18,6 +20,8 @@ export default function page() {
             <Honeymoon />
             <CarRental />
             <Testimonial />
+            <FAQSection />
+            <Footer />
         </>
     )
 }

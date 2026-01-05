@@ -4,7 +4,7 @@ import { Star, Quote } from 'lucide-react';
 const Testimonials = () => {
     const reviews = [
         {
-            name: 'Motusamotus',
+            name: 'Surya',
             location: 'Traveler Lokal | Jakarta',
             review: 'Service LombokMandalikaWisata juara! Kemarin ambil paket tur 3 hari, semua diurusin rapi, drivernya asik, spot fotonya keren-keren. Liburan jadi santai banget, gak ada drama. Mantap poll!',
             rating: 5,

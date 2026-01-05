@@ -56,10 +56,7 @@ export default function Navbar() {
                     <Link href="/about" className="hover:text-blue-600 transition">
                         About
                     </Link>
-                    <Link href="/services" className="hover:text-blue-600 transition">
-                        Services
-                    </Link>
-                    <Link href="/contact" className="hover:text-blue-600 transition">
+                    <Link href="https://wa.me/6287866772313?text=Halo admin Mandalikawisatalombok, saya ingin bertanya " className="hover:text-blue-600 transition">
                         Contact
                     </Link>
                 </div>
@@ -92,10 +89,7 @@ export default function Navbar() {
                     <Link href="/about" className="hover:text-blue-600 transition" onClick={toggleMenu}>
                         About
                     </Link>
-                    <Link href="/services" className="hover:text-blue-600 transition" onClick={toggleMenu}>
-                        Services
-                    </Link>
-                    <Link href="/contact" className="hover:text-blue-600 transition" onClick={toggleMenu}>
+                    <Link href="https://wa.me/6287866772313?text=Halo admin Mandalikawisatalombok, saya ingin bertanya " className="hover:text-blue-600 transition" onClick={toggleMenu}>
                         Contact
                     </Link>
                 </div>
